@@ -1,0 +1,21 @@
+{
+  "name": "stevephentheme",
+  "displayName": "stevephenTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "indigo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/indigo-color-theme.json"
+      }
+    ]
+  }
+}
