@@ -476,7 +476,7 @@
             "name": "Comments",
             "scope": ["comment", "string.quoted.docstring.multi.python"],
             "settings": {
-                "foreground": "#73648b"
+                "foreground": "#58607c"
             }
         },
         {
@@ -580,6 +580,13 @@
             "scope": "storage.type.function.arrow",
             "settings": {
                 "foreground": "#509DDB"
+            }
+        },
+        {
+            "name": "Storage Type Primitive",
+            "scope": "storage.type.primitive",
+            "settings": {
+                "foreground": "#37c2b6"
             }
         },
         {
