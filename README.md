@@ -1,4 +1,4 @@
-# stevephen indigo theme
+# stevephen indigo vscode-theme
 
 ## Rainier + poimandres-theme
 
